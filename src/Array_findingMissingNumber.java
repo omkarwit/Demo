@@ -13,7 +13,7 @@ public class Array_findingMissingNumber {
 		System.out.println(sum);
 		
 		int sum1=0;
-		// All number sum form 1 to 7
+		// All number sum from 1 to 7
 		for(int j=1;j<=7;j++) {
 			sum1=sum1+j;
 		}
